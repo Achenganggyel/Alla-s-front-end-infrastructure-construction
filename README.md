@@ -3,6 +3,7 @@
 
 
 -中文-
+<br>
 前端基建是指在前端开发过程中，为提高开发效率、代码质量和团队协作而构建的一些基础设施和工具。下面是前端基建可以做的一些事情：
 
 1. 脚手架工具
@@ -129,6 +130,7 @@
 
 
 -English-
+<br>
 Front-end infrastructure refers to some infrastructure and tools built during the front-end development process to improve development efficiency, code quality and team collaboration. Here are some things that front-end infrastructure can do:
 
 1. Scaffolding tools
